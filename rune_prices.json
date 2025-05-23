@@ -1,7 +1,7 @@
 {
   "pc_sc_nl": {
     "Ber Rune": {
-      "ist_value": 12.8056,
+      "ist_value": 7.59,
       "low_confidence": true
     },
     "Jah Rune": {
@@ -135,7 +135,7 @@
   },
   "pc_sc_l": {
     "Jah Rune": {
-      "ist_value": 21.596,
+      "ist_value": 16,
       "low_confidence": false
     },
     "Ber Rune": {
@@ -285,7 +285,7 @@
       "low_confidence": true
     },
     "Ber Rune": {
-      "ist_value": 4.5,
+      "ist_value": 9,
       "low_confidence": true
     },
     "Lo Rune": {
@@ -403,7 +403,7 @@
       "low_confidence": true
     },
     "Jah Rune": {
-      "ist_value": 13.0,
+      "ist_value": 16.0,
       "low_confidence": true
     },
     "Lo Rune": {
