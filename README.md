@@ -2,7 +2,7 @@
 
 **Traderie Tools** is a Tampermonkey userscript that enhances your experience on [traderie.com](https://traderie.com) with utilities like ad blocking, rune price insights (for Diablo II), and custom bookmarks — all packed into a draggable UI panel.
 
-[➡Install via GreasyFork](https://greasyfork.org/en/scripts/YOUR-SCRIPT-ID)  
+[Install via GreasyFork](https://greasyfork.org/en/scripts/YOUR-SCRIPT-ID)  
 Requires [Tampermonkey](https://www.tampermonkey.net/) (available for Chrome, Firefox, Edge, Safari, and others)
 
 ---
